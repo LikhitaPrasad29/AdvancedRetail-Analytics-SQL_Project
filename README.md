@@ -2,19 +2,19 @@
 
 This project demonstrates strong data analytics skills using advanced SQL queries on a retail dataset involving Customers, Orders, and Products.
 
-🗂️ Project Structure
+🗂 Project Structure
 
 - day1.sql – Table creation, sample data, and basic queries
 - day2.sql – Intermediate analysis queries (Top selling, revenue, first/last orders)
 - day3.sql – Complex queries including customer behavior, highest revenue, etc.
 
-📊 Dataset Overview
+ Dataset Overview
 
 - Customers – Customer ID, Name, and Location
 - Products – Product ID, Name, and Price
 - Orders – Order ID, Date, Customer ID, Product ID, Quantity
 
-📌 Key Queries Included
+ Key Queries Included
 
 - Top 5 best-selling products
 - Customer revenue analysis
@@ -24,13 +24,13 @@ This project demonstrates strong data analytics skills using advanced SQL querie
 - Highest revenue generated
 - Monthly order trends
 
-💡 Tools Used
+ Tools Used
 
 - SQL (Tested on SQLTest.net / SQLite)
 - GitHub for version control
 
 
-📸 Query Output Screenshots
+ Query Output Screenshots
 
 
 1. Top 5 best-selling products  
@@ -58,7 +58,7 @@ This project demonstrates strong data analytics skills using advanced SQL querie
    ![Custom Query](screenshots-total_spend_per_customer.png)
 
 
-📁 Author
+ Author
 
 Likhita Prasad  
 [LinkedIn](https://linkedin.com/in/likhita-prasad-90746125a)  
